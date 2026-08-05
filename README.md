@@ -1,12 +1,12 @@
-# The Crease Cricket Academy Platform
+# Success Cricket Academy Platform
 
-The Crease is a production-minded cricket academy platform for a real coaching business. It currently includes a polished public website, a working trial-session enquiry flow, a NestJS API, and a PostgreSQL domain model designed for admissions, students, guardians, coaches, batches, fees, payments, tournaments, and performance tracking.
+Success Cricket Academy is a production-minded cricket academy platform for a real coaching business in Bihar Sharif. It currently includes a polished public website, a working trial-session enquiry flow, a NestJS API, and a PostgreSQL domain model designed for admissions, students, guardians, coaches, batches, fees, payments, tournaments, and performance tracking.
 
 This is not a throwaway landing page. The codebase is shaped as the foundation for an academy operations system that can grow from public enquiries into secure admin, parent, coach, and student workflows.
 
 ## What Is Built
 
-- Responsive public website for The Crease Cricket Academy in Bengaluru.
+- Responsive public website for Success Cricket Academy in Bihar Sharif.
 - Program sections for Foundation, Performance, and Elite Pathway coaching.
 - Real trial-session form that posts to the backend API.
 - NestJS API with validation, CORS, security headers, Swagger, and health probes.
